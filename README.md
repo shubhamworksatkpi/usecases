@@ -1,2 +1,2 @@
 Spring Boot RESTful web services APIs for CRUD operations on a MySQL database. 
-The CRUD operations -> Create, Retrieve, Update and Delete.
+CRUD refers to the four basic operations a software application should be able to perform in SQL Server – Create, Read, Update, and Delete.
