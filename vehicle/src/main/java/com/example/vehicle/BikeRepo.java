@@ -1,4 +1,4 @@
-package com.country.demo2;
+package com.example.vehicle;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;

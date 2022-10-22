@@ -1,4 +1,4 @@
-package com.country.demo2;
+package com.example.vehicle;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
