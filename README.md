@@ -1,6 +1,6 @@
 Spring Boot RESTful web services APIs for CRUD operations on a MySQL/H2 database. 
 
-                                                  ------------------------ INDEX ----------------------------- 
+                                  ------------------------ INDEX ----------------------------- 
 
 1) CRUD directory             - basic operations(Create, Read, Update, and Delete) using Spring Boot RESTful CRUD API on Country DB. <br>
 2) application directory      - building an application with Spring Boot. <br>
